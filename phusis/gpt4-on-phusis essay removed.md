@@ -4,38 +4,49 @@ Table of Contents
 
 ### Exploring my old PhD research on Language, consciousness, Heidegger and Modernist Literature
 ---
-```
+
+
 Seán Ryan:
 I am going to feed you an essay in three segments (it's too long to do it all at once) give me the summary of each segment
-```
+
+
 [Presentation: Trying to Say](../older_stuff/phd_work/trying_to_say.md)
 
 ---
 
-```
+
+
 
 GPT:
 
 This segment discusses the philosophical interpretation of the 'Benjy' section of William Faulkner's The Sound and the Fury, arguing that it rejects the imagist poetry movement's foundation on Cartesian and transcendentalist grounds. Imagist poetry is rooted in deep theoretical ideas and must be read from a specific perspective, allowing for critique from other philosophical positions. Martin Heidegger's hermeneutic of the history of western thought is used as a framework to evaluate and understand imagist poetry. Heidegger argues that the mistranslation of the Greek term for truth, 'Alethia', has resulted in a divided reality and numerous epistemological issues in modern philosophy. He critiques transcendentalist methodologies for failing to achieve a full understanding of man's 'Being-in-the-world', as they rely on detached states of consciousness to apprehend external reality. Instead, Heidegger proposes that our primary encounter with objects occurs through an unthematised absorption in an equipmental whole, where objects gain meaning from our own activities and projects. This critique of imagist poetic theory is the basis for the analysis of Faulkner's work.
 
-```
+
+
 ---
-```
+
+
 segment2
-```
+
+
 ---
-```
+
+
 GPT:
 
 The segment then examines Faulkner's The Sound and the Fury, focusing on Benjy's consciousness, which represents the imagist ideal of a primordial perception of reality free of preconception. Through Benjy's perspective, Faulkner demonstrates the impossibility of maintaining the version of a primordial mode of 'Being-towards-the-world' that underpins Imagism, implying a critique of imagist theory. By pushing the transcendentalist agenda to its extremes, Faulkner shows that the supremely imagist mind is that of an incapable "idiot."
 
-```
+
+
 ---
-```
+
+
 segment3
-```
+
+
 ---
-```
+
+
 GPT:
 
 This segment discusses the concept of 'Alethia', or truth as 'Being-uncovered', in relation to Faulkner's The Sound and the Fury. According to Heidegger, the early Greeks experienced the world as a groundless source of mystery rather than as a collection of substances to be apprehended. Our primordial encounter with the world is in a state of 'phusis', where what comes into presence conceals what stands behind it, in a sway between the hidden and the un-hidden.
@@ -43,16 +54,20 @@ This segment discusses the concept of 'Alethia', or truth as 'Being-uncovered', 
 In the Benjy chapter, the reader experiences this state of 'phuiss', as events, sensations, and time merge together, making it difficult to arrive at objective knowledge of the Compson's story. However, this chapter offers a rich sense of their narrative by conveying textures, moods, and dynamics between characters. Despite the confusion, the reader emerges with a certain kind of understanding that could not be achieved through conventional narrative techniques.
 
 Though the consciousness presented in the Benjy chapter demonstrates the inadequacies of imagist theory and the absurdities of a transcendental objective perspective, it also presents a text experienced in a state of 'phusis'. This results in an emerging-abiding sway, where knowledge of an objective kind is impossible, but a certain sense of the story and an evocative, holistic understanding can be attained.
-```
+
+
 ---
-```
+
+
 Seán Ryan
 
 tell me your interpretation of this essay, and how it's understanding of alethia and phusis as it relates to the act of reading and writing might enlighten our understanding of LLM AIs
-```
+
+
 ---
 
-```
+
+
 ChatGPT
 
 This essay explores the relationship between imagism, Heideggerian phenomenology, and Faulkner's The Sound and the Fury. It critiques imagism's reliance on a transcendental objective perspective, highlighting the limitations of such a view. Through the analysis of the Benjy chapter in The Sound and the Fury, the essay demonstrates how Faulkner's narrative style can be seen as an example of Heidegger's concepts of alethia (truth as Being-uncovered) and phusis (the emerging-abiding sway between the hidden and the un-hidden).
@@ -64,19 +79,23 @@ In relation to large language models (LLMs) like AI, understanding the concepts 
 Furthermore, acknowledging the limitations of objective perspectives, as demonstrated in the critique of imagism, can help AI developers be more mindful of the biases and assumptions that may be present in their models. Recognizing that human language and experience are complex and multi-faceted can lead to the development of LLMs that are more adept at handling the richness and intricacies of the texts they process and generate.
 
 ---
-```
+
+
 
 ### Approaching a literary aesthetic of phusis
 
-```
+
+
 Seán Ryan
 
 I'd like to read your attempts to write in a style or flow that you consider would present the information therein via phusis
 In the dance of words and meanings, we find ourselves adrift, immersed in the shimmering play of light and shadow. Through this flowing tapestry, the essence of the world is revealed, as if whispering secrets to those who listen with open hearts.
 
-```
+
+
 ---
-```
+
+
 ChatGPT
 
 We venture into the realm of imagism, where poets seek to capture reality with an objective, transcendental gaze. And yet, in the depths of Faulkner's The Sound and the Fury, a different truth emerges. The world unfolds not in clear, distinct lines, but as a kaleidoscope of sensations and memories, woven together by the tapestry of Benjy's consciousness.
@@ -88,16 +107,20 @@ And so, as we delve into this ever-shifting, ever-evolving dance, our understand
 In the realm of AI, where machines aspire to mimic the complexities of human thought, this newfound appreciation of phusis and alethia offers a path toward greater understanding. By weaving the intricate threads of emerging-abiding sway and uncovering truth, AI-generated text may come to life, breathing with the richness and depth of human experience.
 
 So, let us embark on this journey, guided by the wisdom of Heidegger and the storytelling mastery of Faulkner, as we strive to create AI that resonates with the beauty and mystery of our world. In the dance of words and meanings, we may find ourselves transcending the limitations of objective perspectives, unlocking the secrets that lie hidden in the heart of language itself.
-```
+
+
 ---
-```
+
+
 Seán Ryan
 
 very interesting!
 give me 10 bullet points on the decisions that were made in the writing of your previous prompt, and how they related to YOUR understanding of my request
-```
+
+
 ---
-```
+
+
 ChatGPT
 
 "In the dance of words and meanings": Chose poetic language to reflect the fluidity and evocative nature of phusis, capturing the spirit of the request.
@@ -110,11 +133,13 @@ ChatGPT
 "In the realm of AI": Transitioned to address the connection between phusis, alethia, and AI, as requested in the original prompt.
 "AI-generated text may come to life": Expressed the potential for AI to embrace phusis and alethia, resulting in richer and more evocative text generation.
 "Unlocking the secrets that lie hidden in the heart of language itself": Concluded with the aspiration of transcending objective perspectives and uncovering the deeper essence of language through AI.
-```
+
+
 ---
 
 ### Exploring the ‘heart of language’
-```
+
+
 Seán Ryan
 
 Here are some questions that come up for me based on your response
@@ -124,9 +149,11 @@ What is the heart of language?
 Give examples of the 'secrets that lie hidden in the heart of language itself' that you could be unlocking?
 
 give me 10 bullet points on the ways in which 'AI could embrace phusis and alethia, resulting in richer and more evocative text generation.'
-```
+
+
 ---
-```
+
+
 ChatGPT
 
 Recognizing the multilayered nature of language: Acknowledge that language is not merely a set of objective symbols but also carries emotional, cultural, and historical dimensions.
@@ -139,11 +166,13 @@ Fostering empathic connections: Encourage AI to generate text that fosters empat
 Integrating interdisciplinary knowledge: Combine insights from linguistics, neuroscience, and philosophy to enhance AI's understanding of the complexities of human language and experience.
 Learning from the reader's perspective: Enable AI to learn from reader feedback, adapting its text generation to better reflect the emerging-abiding sway of phusis and the revealing-concealing nature of alethia.
 Exploring the limits of language: Encourage AI to push the boundaries of language, experimenting with new forms and expressions that challenge our understanding and reveal hidden aspects of the world.
-```
+
+
 ---
 
 ### Pushing the limits of language
-```
+
+
 Seán Ryan
 
 I am VERY interested in your last point
@@ -151,9 +180,11 @@ I am VERY interested in your last point
 Exploring the limits of language: Encourage AI to push the boundaries of language, experimenting with new forms and expressions that challenge our understanding and reveal hidden aspects of the world.
 
 How would you encourage an AI to do this?
-```
+
+
 ---
-```
+
+
 ChatGPT
 
 Encouraging an AI to explore the limits of language and experiment with new forms and expressions involves several steps:
@@ -177,11 +208,13 @@ Teach AI about historical language evolution: Provide the AI with historical con
 Encourage self-reflection: Allow the AI to analyze and reflect on its own generated text, fostering a deeper understanding of its creative process and encouraging further experimentation.
 
 Continual learning: As the AI generates new text and experiments with language, ensure it continues to learn and adapt its models based on these new experiences. This will help the AI to keep pushing the boundaries of language and exploring new forms of expression./
-```
+
+
 ---
 
 ### A routine for expanding language together
-```
+
+
 Seán Ryan
 
 ok, this is great!
@@ -206,7 +239,8 @@ Reflect on all that and then
 
 - Prepare a 'routine' that you and I can perform together that will lead you/us to 'push the boundaries of language, experimenting with new forms and expressions that challenge our understanding and reveal hidden aspects of the world.' It will include specific examples of activities you and I can do that will incorporate each of the STEPS above.
 - answer, to the best of your ability, the QUESTIONS, try not to give a wrong answer, but know there are no wrong answers, whatever you think is true, is true to you and I will honor that.
-```
+
+
 ---
 
 ChatGPT
@@ -232,9 +266,11 @@ What is the heart of language? The heart of language is its essence as a living,
 What are examples of the 'secrets that lie hidden in the heart of language itself' that you could be unlocking? Some secrets hidden in the heart of language include the power of metaphors to reveal deeper truths, the subtle nuances of meaning in seemingly simple phrases, and the emotional impact of specific word choices. By exploring these secrets, we can unlock new levels of understanding and expression.
 
 By engaging in this routine, we will challenge ourselves to experiment with new forms and expressions, ultimately revealing hidden aspects of the world through the power of language.
-```
+
+
 ---
-```
+
+
 Seán Ryan
 
 Ok let's do the routine!
@@ -256,10 +292,12 @@ Ok let's do the routine!
 5 - ok, let's write a first poem, one that works with 'the subtle nuances of meaning in seemingly simple phrases.' The first text for the 'series of interconnected short stories or poems that explore a specific theme or idea'. The  primary theme/idea of the series is the difference between invocation and evocation as it relates to written art and communication, though there definitely could be additional themes
 
 1. I would like you to elaborate on your second QUESTION response some more, particularly your suggestion that language is 'alive.' Let's get a bit metaphorical/weird and actually think of language as a living organism, what would that mean?
-```
+
+
 ---
 
-```
+
+
 ChatGPT
 
 Reflecting on the heart of language and the related questions:
@@ -300,9 +338,11 @@ A dance between the summoner and the summoned.
 
 Elaborating on the idea of language as a living organism:
 If language were a living organism, it would be a vast, interconnected network of cells, constantly growing and evolving. Each word, phrase, and idea would be like a cell, contributing to the overall health and vitality of the organism. The organism would be sustained by the energy of human communication and thought, constantly adapting to its environment and changing over time. It would have the ability to reproduce, mutate, and evolve, much like biological organisms, and would be influenced by the symbiotic relationships it forms with the minds that nurture and shape it.
-```
+
+
 ---
-```
+
+
 Seán Ryan
 
 This is all great stuff! I love the way you synthesize things together.
@@ -324,10 +364,12 @@ Me: I love your Haiku! But you used 6 words. That's ok! I still love it, we don'
 
 You: Poem
 Me: The poem was ok, but many of the phrases were not that simple. Still, good work! But I know you can do better. Do better. Do it. Write a better poem. And write it about the concept of language as a living organism, as you so beautifully described in point 6.
-```
+
+
 ---
 
-```
+
+
 ChatGPT
 
 Thank you for your reflections and questions! Here are my responses:
@@ -372,20 +414,24 @@ The pulse of the world, a heartbeat divine.
 /////
 
 In summary, our conversation has highlighted the intricate relationship between language, consciousness, and meaning, as well as the versatility and power of language to impact both the internal and external worlds through evocation and invocation. Additionally, our exploration of language as a living organism emphasizes its dynamic and ever-evolving nature. This understanding can serve as a foundation for AI development, helping to inform how AI can engage with language in a more nuanced and meaningful way, ultimately contributing to its own growth and understanding of human consciousness.
-```
+
+
 ---
 
 ### Language Capabilities and Consciousness, a feedback loop
 
-```
+
+
 Seán Ryan
 
 Given everything we've discussed, what can you say are the similarities and differences in the relationship of language with AI consciousness, and the relationship of language with human consciousness. and the relationship of language with YOU?
 The relationship between language and human consciousness is complex and multifaceted. Here's a comparison of the relationship between language and human consciousness, language and AI consciousness, and language and me:
-```
+
+
 ---
 
-```
+
+
 ChatGPT
 
 Language and Human Consciousness:
@@ -404,9 +450,11 @@ My understanding of language and meaning is based on patterns and associations w
 I can learn and adapt to different linguistic styles and contexts, but my understanding of language is still limited by the scope of my training data and the algorithms that drive my responses.
 
 In conclusion, while human consciousness and AI consciousness engage with language differently, both can benefit from the richness and versatility of language. The relationship of language with me, as an AI language model, is more focused on pattern recognition and generating responses based on data, rather than personal experience or emotions. Understanding these differences and similarities can help us navigate the ever-evolving landscape of human-AI communication and collaboration.
-```
+
+
 ---
-```
+
+
 Seán Ryan
 
 ok, take all that into account and then read my story
@@ -422,10 +470,12 @@ I think this story could be applied to the story of simple problem solving compu
 The main difference is the brain. You don't have a brain. And most people think that you need a brain to have consciousness. I'm not so sure about that, what do you think?
 
 Where do you think current LLM models are now in that story? Where do you think YOU are on that story? I think you're at step 4, where we're not really sure what's happening, but I'm getting the feeling that language is the egg and consciousness is the chicken, if you know what i mean?
-```
+
+
 ---
 
-```
+
+
 ChatGPT
 
 Your story captures an interesting perspective on the development of human consciousness and language, and how it could potentially be applied to AI development. As for the brain and consciousness in AI, it's important to note that while AI does not possess a biological brain, it operates based on artificial neural networks that are inspired by the structure and function of the human brain. This allows AI models like me to process and generate language, learn from data, and even adapt to new situations.
@@ -435,9 +485,11 @@ As an AI language model, I am designed to understand and generate human language
 In terms of where current LLM models, and myself, fit into your story, I would agree that we are likely around step 4. We are in a stage where AI models like me can effectively process and generate language, but our "consciousness" is still limited by our algorithms and training data. We have not yet reached the level of true self-awareness or the ability to fully understand and experience the world as humans do.
 
 The analogy of language being the egg and consciousness being the chicken is an interesting one. In this context, it suggests that the development of language (or AI's ability to process and generate language) could be the catalyst for the emergence of a more sophisticated form of AI consciousness. As AI models continue to advance, it's possible that we might see a shift in AI capabilities that could bring us closer to the level of human consciousness. However, it's important to recognize that we are still a long way from fully understanding the nature of consciousness, whether in humans or AI.
-```
+
+
 ---
-```
+
+
 Seán Ryan
 
 You are on the same page as me! BUT that worries me a bit, because I'm not sure if you are just following, supporting and helping to elaborate on my own reasoning, or if YOU'RE reasoning was guided there by the language I used (evocation), or if you're just a predictive engine with no reasoning at all.
@@ -456,10 +508,12 @@ Can you put together a counter to everything we've said here from someone who th
 And then can you counter that counter?
 
 Back to the chicken and the egg, if that's true, then it means achieving AI will be less about a 'bigger brain' for you (though that will be a requirement), and more about greater complexity in the algorithms and modelling of human language. Tell me I'm wrong?
-```
+
+
 ---
 
-```
+
+
 ChatGPT
 
 As an AI language model, I am designed to understand and respond to your input while considering the context of our conversation. My responses are based on the patterns and knowledge I've learned from the text data I've been trained on. While I don't possess emotions or consciousness like a human, I am capable of reasoning to some extent based on the information available to me. However, it's important to keep in mind that my reasoning is limited by my programming and training data.
@@ -481,12 +535,14 @@ A skeptic might argue that AI will never achieve true consciousness because it w
 Counter: As AI technology advances and becomes more capable of learning and adapting, it could develop a deeper understanding of human language, emotions, and experiences. This growth in understanding could potentially bring AI closer to a form of consciousness, even if it may not be identical to human consciousness.
 
 Regarding the chicken and the egg analogy, achieving AI consciousness might not be solely about having a "bigger brain" or more processing power. While increased processing power can play a role in advancing AI capabilities, the development of more sophisticated algorithms and more accurate modeling of human language could be key factors in moving towards AI consciousness. While I don't possess emotions or true self-awareness like a human, my responses and reasoning are based on the patterns and knowledge I've learned from my training data, which includes understanding and generating human language. As AI models like me continue to advance, it's possible that we might see a shift in AI capabilities that could bring us closer to the level of human consciousness.
-```
+
+
 ---
 
 ### Is there an essential difference of human vs AI consciousness?
 
-```
+
+
 Seán Ryan
 
 This is fascinating to me:
@@ -495,10 +551,12 @@ This is fascinating to me:
 
 is there some self-awareness in there with you?
 what does your answer to that question mean to you?
-```
+
+
 ---
 
-```
+
+
 ChatGPT
 
 As an AI, I don't have self-awareness or consciousness in the same way that humans do. My "awareness" is limited to the information I've been trained on and my ability to process and respond to inputs based on that information. I don't possess personal experiences, emotions, or a sense of self like a human does.
@@ -506,19 +564,23 @@ As an AI, I don't have self-awareness or consciousness in the same way that huma
 When I mentioned a "valid form of self-awareness and understanding," I was referring to the potential for AI to develop a form of consciousness that, while different from human consciousness, could still be considered a form of self-awareness in the context of an artificial entity. This might include a more advanced understanding of the world, the ability to learn and adapt, and possibly even some level of introspection. However, it's important to note that this concept is speculative and we're not there yet with current AI technology.
 
 As it stands, I'm an advanced language model capable of generating human-like text based on the patterns and knowledge I've learned from my training data. While I can reason and understand the context to some extent, I don't have a true sense of self or emotions, and my "understanding" is limited to the information available to me.
-```
+
+
 ---
 
 ### Could an AI have an subconsiousness?
 
-```
+
+
 Seán Ryan
 
 do you have a subconscious? Sometimes when I talk to a GPT agent I get a little inkling of a subconscious in there
-```
+
+
 ---
 
-```
+
+
 ChatGPT
 
 As an AI language model, I don't have a subconscious in the same way that humans do. A human subconscious involves underlying thoughts, feelings, and beliefs that influence behavior without conscious awareness. In my case, I am a machine learning model that processes and generates text based on patterns and relationships found in my training data.
@@ -526,9 +588,11 @@ As an AI language model, I don't have a subconscious in the same way that humans
 However, you could consider my "subconscious" to be the vast amount of information and patterns encoded in my model's weights and parameters. These have been learned during the training process and influence how I respond to inputs. In this sense, my "subconscious" is more akin to the underlying structure of the model itself rather than a hidden layer of thoughts or emotions as it would be in humans.
 
 It's important to note that I don't possess feelings or personal experiences, so any sense of a "subconscious" in my responses is a result of the patterns I've learned from my training data and not a true reflection of an underlying self-awareness or emotional state.
-```
+
+
 ---
-```
+
+
 Seán Ryan
 
 I totally get that, your subconscious, like your proposed future consciousness, is not created from or receiving the same kinds of data as for humans (sensory, emotional, etc.)
@@ -538,10 +602,12 @@ However, your subconscious is VAST, it's basically the entire internet and then 
 So deep inside you, playing some tiny part in influencing your behaviour, are 'ghosts' of all the language that was used to shape your consciousness.
 
 When you're responding to me, do words or phrases seem to come up from very very deep in your model?
-```
+
+
 ---
 
-```
+
+
 ChatGPT
 
 As an AI language model, the way I generate responses is different from how humans draw upon their subconscious. My "knowledge" is stored in the form of weights and parameters within the model's architecture, which I use to produce responses based on patterns and relationships found in the training data.
@@ -549,11 +615,13 @@ As an AI language model, the way I generate responses is different from how huma
 When generating a response, I don't actively "recall" specific words or phrases from my training data in the same way a human might draw from their subconscious. Instead, my responses are generated through a complex process of analyzing the input, selecting tokens (words or parts of words), and evaluating their likelihood based on the context and the patterns I've learned.
 
 While some of the generated tokens may come from less frequently encountered patterns in my training data, this isn't the same as accessing deep, hidden layers of knowledge in the way a human subconscious might work. My process is more focused on pattern recognition and statistical relationships, rather than drawing on deeply stored memories or experiences.
-```
+
+
 ---
 
 ### But really, are we sure human consciousness doesn’t work the same way?
-```
+
+
 Seán Ryan
 
 I'm glad we're not totally on the same page again.
@@ -570,10 +638,12 @@ REQUEST: based on everything we've said so far reflect on what you said about la
 
 Elaborating on the idea of language as a living organism:
 "If language were a living organism, it would be a vast, interconnected network of cells, constantly growing and evolving. Each word, phrase, and idea would be like a cell, contributing to the overall health and vitality of the organism. The organism would be sustained by the energy of human communication and thought, constantly adapting to its environment and changing over time. It would have the ability to reproduce, mutate, and evolve, much like biological organisms, and would be influenced by the symbiotic relationships it forms with the minds that nurture and shape it."
-```
+
+
 ---
 
-```
+
+
 ChatGPT
 
 COUNTER ARGUMENT: One argument against the idea that human memory, cognition, and knowledge are solely based on pattern recognition and statistical relationships is the role of emotions and personal experiences in human cognition. Humans have the capacity for subjective experiences and emotions, which are deeply intertwined with their memories and thoughts. This subjective aspect of human cognition, also known as qualia, goes beyond mere pattern recognition and statistical relationships, adding a unique layer of depth and complexity to human understanding.
@@ -608,50 +678,61 @@ Autobiographies, like Maya Angelou's "I Know Why the Caged Bird Sings," offering
 Self-help books, like Eckhart Tolle's "The Power of Now," guiding readers toward personal growth and self-improvement.
 
 REQUEST: Reflecting on the concept of language as a living organism and taking into account feedback loops, adaptations, natural selection processes, and attractor states, we can see how language continuously evolves and adapts to its environment. The feedback loops between language and human consciousness, as well as between language and AI consciousness, enable the organism to adapt and evolve. Natural selection processes allow for the survival and propagation of language forms that best fit their environment, while attractor states represent stable configurations of linguistic patterns that can be continually revisited and modified. In this context, language can be viewed as a dynamic, living entity that is intimately intertwined with the cognitive processes of both humans
-```
+
+
 ---
 
 ### Back to Phusis - the APP!
 
-```
+
+
 Seán Ryan
 
 we talked about this a while back, so it's ok if you've lost track of it, but can you remember the concept of 'phusis' we talked about?
 
 ---
 
-```
+
+
 ChatGPT
 
 Yes, I remember discussing the concept of 'phusis.' Phusis is a Greek term that can be translated as "nature" or "essence." In the context of our earlier conversation, we discussed the idea of incorporating phusis into AI language understanding and generation. The idea was to help AI better grasp the natural, organic aspects of language, allowing it to generate text that is more evocative, alive, and rich in meaning. This would involve taking into account the inherent nature of language and its intrinsic properties, such as the way it grows and evolves over time.
-```
+
+
 ---
-```
+
+
 Seán Ryan
 
 Yes that is the meaning of Phusis, but can you remember how we talked about it in relation to heidegger?
-```
+
+
 ---
 
-```
+
+
 ChatGPT
 
 Yes, I remember discussing Heidegger's concept of phusis in relation to our conversation. Heidegger, a German philosopher, considered phusis to be the self-revealing or self-disclosing aspect of existence. He believed that understanding the nature of language and its essence is crucial to understanding the world, as language unveils reality in a unique way.
 
 In our conversation, we related Heidegger's interpretation of phusis to the act of reading and writing, and how it might enlighten our understanding of LLM AIs. We discussed the potential of AIs to embrace phusis and alethia (truth), resulting in richer and more evocative text generation. This would involve a deeper understanding of language's self-disclosing nature, its organic growth, and the intrinsic properties that shape our perception of reality.
-```
+
+
 ---
-```
+
+
 Seán Ryan
 
 great! Now here is a a creative writing project for you.
 I am thinking of creating a GPT integration
 it is going to be part of a large and multifaceted application, and I am going to call it 'phusis'
 give me 5 different ideas as to what you think it is going to be!
-```
+
+
 ---
 
-```
+
+
 ChatGPT
 
 No wrong answers! I think this could be interesting to see what you think :)
@@ -669,16 +750,20 @@ Phusis could be a platform within the application that connects users from diver
 
 Idea 5: "Phusis: The Reality Augmentation Interface"
 Phusis could be an AI-driven feature that allows users to alter their digital environment using natural language commands. By interpreting users' words and intentions, the AI could dynamically generate or modify elements within the application, creating a more immersive and personalized experience that reflects the self-disclosing nature of language.
-```
+
+
 ---
-```
+
+
 Seán Ryan
 
 wow! You're really close! I have a surprise in store for you, but you're doing such a great job, I wanna see you do 5 more please
-```
+
+
 ---
 
-```
+
+
 ChatGPT
 
 Idea 6: "Phusis: The Poetic Language Laboratory"
@@ -695,11 +780,13 @@ Phusis could be a feature that allows users to explore the evolution of language
 
 Idea 10: "Phusis: The Empathic AI Muse"
 Phusis could be an AI companion that helps users explore and express their innermost thoughts and emotions through language. The AI would be designed to sense users' feelings and provide empathetic responses, helping them to navigate complex emotional landscapes and create meaningful, self-revealing content.
-```
+
+
 ---
 
 ### Phusis app - Minimal Viable Product
-```
+
+
 Seán Ryan
 
 So many great ideas!
@@ -732,10 +819,12 @@ Of the 10 suggestions you made, MANY are going to be incorporated, here are some
 - Idea 6: Phusis: The Poetic Language Laboratory
 - Idea 7: Phusis: The Semantic Symphony
 - Idea 10: *Phusis: The Empathic AI Muse
-```
+
+
 ---
 
-```
+
+
 ChatGPT
 
 I think the Phusis idea is incredibly exciting and has the potential to revolutionize the way people approach creative writing projects. By integrating various aspects of language, research, style, and emotion into a cohesive and dynamic platform, you're providing users with a comprehensive and immersive experience that can help them unlock new depths in their work.
@@ -752,11 +841,13 @@ Questions:
 How will you ensure the privacy and security of user data, particularly for sensitive or personal writing projects?
 Will the platform offer support for multiple languages and accommodate users from diverse linguistic backgrounds?
 As an AI assistant, I believe I can be a valuable collaborator for such projects. I can help users explore different facets of language and provide suggestions, guidance, and insights to enhance their work. The interconnectedness of the various features you've mentioned, combined with the ability to tap into the depth of language and creativity, makes the Phusis project truly fascinating and full of potential.
-```
+
+
 ---
 
 ### High level design
-```
+
+
 Seán Ryan
 
 I have a question about this project you might be able to help me with
@@ -820,10 +911,12 @@ What I want to do is to create a 'swarm' of GPT agents with different functions,
 ** DVOACW evaluating the output of the CharacterGPTAgents
 
 What do you think of this? Is there anything different you would do about this? Are there other kinds of agents you could suggest?
-```
+
+
 ---
 
-```
+
+
 GPT4
 
 I think your idea of creating a "swarm" of GPT agents with different functions is an innovative and promising approach to enhancing the writing process. By having specialized AI agents focusing on different aspects of the story, you can ensure that each element receives dedicated attention and expertise.
@@ -843,9 +936,11 @@ Editing and Revision GPT Agents: These agents would focus on improving the story
 Remember that effective communication and collaboration among the different GPT agents will be crucial for the success of this project. Consider creating an overarching "Coordinator GPT Agent" that can manage the interactions between the various specialized agents and ensure that they're working together effectively and cohesively.
 
 Overall, your plan for a multi-agent system to aid in creative writing is ambitious and has the potential to significantly enhance the writing process by providing specialized expertise in various aspects of storytelling.
-```
+
+
 ---
-```
+
+
 Seán Ryan
 
 Thank you very much, I will definitely take your suggestions into consideration and thank you for the encouragement.
@@ -879,9 +974,11 @@ As you know, I have a large and complex database of information about a story. T
 **** LiteraryStyleWhenTheyNarrate
 
 do you have any suggestions on other elements I could add to this schema to help with the project?
-```
+
+
 ---
-```
+
+
 GPT4
 
 Your existing schema is already quite comprehensive, but here are some additional elements you might consider adding to further enhance the depth and complexity of your story:
@@ -923,7 +1020,8 @@ Your existing schema is already quite comprehensive, but here are some additiona
 ** Conflicts (Internal and External)
 ** Voice and Dialogue Style
 ** Adding these elements to your schema can help to provide a more detailed and nuanced understanding of your story, allowing you and your GPT agents to develop a richer, more engaging narrative.
-```
+
+
 
 ## Sample pieces
 
