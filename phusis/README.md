@@ -1052,8 +1052,8 @@ Your existing schema is already quite comprehensive, but here are some additiona
 
 ## Sample pieces
 
+* ["High Literature" Choose Your Own Adventure story](./samples/disco_inferno.md)
 * [Example of a research assistant](./samples/asst.md)
-* [High Literature Choose Your Own Adventure story](./samples/disco_inferno.md)
 * [If David Sedaris and the Three Bears](./samples/Sedaris_and_the_three_bears.md)
 * [If Cormac McCarthy wrote a story set in 11th C Ireland](./samples/cormac.md)
 * ...More to Come
