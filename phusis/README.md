@@ -1,4 +1,4 @@
-Table of Contents
+Table of Contents in dropdown to the top right of this doc
 
 ## Developing a mental map of creative linguistics with ChatGPT
 
