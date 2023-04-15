@@ -19,6 +19,7 @@ Table of Contents:
 - [Remember *'Phusis'*? - It's Back... In APP Form!](#remember-phusis---its-back-in-app-form)
   - [*'Phusis'* App - Minimal Viable Product](#phusis-app---minimal-viable-product)
   - [High Level Design](#high-level-design)
+- [Blind Spots](#blind-spots)
 - [Sample Pieces](#sample-pieces)
 - [Reflections](#reflections)
 - [Want to play?](#want-to-play)
@@ -418,9 +419,25 @@ However, you might have a better experience looking at the table of contents and
 
 ***ChatGPT***
 
-> <br><br>Your existing schema is already quite comprehensive, but here are some additional elements you might consider adding to further enhance the depth and complexity of your story:<br><br>- Book<br>** Themes<br>*** Central Themes<br>*** Sub-themes<br>*** Motifs<br>** Genre and Sub-genre<br>**Target Audience<br>- LiteraryStyles<br>** Tone and Mood<br>** Imagery and Symbolism<br>** Pacing<br>- PlotEvents<br>** Subplots<br>** Foreshadowing<br>** Climax<br>** Resolution<br>- BackgroundSettings<br>** Culture and Customs<br>** Languages and Dialects<br>** Economy<br>** Government and Politics<br>** Religion and Beliefs<br>** Climate and Geography<br>** Flora and Fauna<br>- Chapters<br>** Chapter Goals (What should be accomplished in each chapter?)<br>** Chapter Summaries<br>** Point of View (Which character's perspective is the chapter told from?)<br>- Characters<br>** Physical Appearance<br>** Background and History<br>** Beliefs and Values<br>** Goals and Motivations<br>** Character Arcs (How do the characters grow and change throughout the story?)<br>** Conflicts (Internal and External)<br>** Voice and Dialogue Style<br>** Adding these elements to your schema can help to provide a more detailed and nuanced understanding of your story, allowing you and your GPT agents to develop a richer, more engaging narrative.<br><br>
+> <br>Your existing schema is already quite comprehensive, but here are some additional elements you might consider adding to further enhance the depth and complexity of your story:<br><br>- Book<br>** Themes<br>*** Central Themes<br>*** Sub-themes<br>*** Motifs<br>** Genre and Sub-genre<br>**Target Audience<br>- LiteraryStyles<br>** Tone and Mood<br>** Imagery and Symbolism<br>** Pacing<br>- PlotEvents<br>** Subplots<br>** Foreshadowing<br>** Climax<br>** Resolution<br>- BackgroundSettings<br>** Culture and Customs<br>** Languages and Dialects<br>** Economy<br>** Government and Politics<br>** Religion and Beliefs<br>** Climate and Geography<br>** Flora and Fauna<br>- Chapters<br>** Chapter Goals (What should be accomplished in each chapter?)<br>** Chapter Summaries<br>** Point of View (Which character's perspective is the chapter told from?)<br>- Characters<br>** Physical Appearance<br>** Background and History<br>** Beliefs and Values<br>** Goals and Motivations<br>** Character Arcs (How do the characters grow and change throughout the story?)<br>** Conflicts (Internal and External)<br>** Voice and Dialogue Style<br>** Adding these elements to your schema can help to provide a more detailed and nuanced understanding of your story, allowing you and your GPT agents to develop a richer, more engaging narrative.<br><br>
 
 <br><br>
+
+# Blind Spots
+
+Later in the project I asked GPT4 about potential blind spots in the project
+
+---
+
+***Seán Ryan***
+
+> <br>reflecting oneverything we've done around agents today., tell me any blindspots you and/or I may have about these agents and the project overall<br><br>
+
+---
+
+***ChatGPT***
+
+> <br>Regarding potential blindspots in the project, here are a few thoughts:<br><br>1. Complexity: With multiple agents having various roles, goals, and traits, there's a risk of overwhelming the user with too much information or creating an overly complex system that is hard to manage and maintain.<br><br>2. Integration: Ensuring that all agents work together seamlessly and efficiently may pose challenges, especially if they have conflicting goals or ideas. It's important to consider how agents will communicate and collaborate with one another.<br><br>3. Redundancy: Some agents may have overlapping roles or responsibilities, which could lead to redundancy in the system. It's essential to evaluate the necessity of each agent and consider whether combining or simplifying their roles could improve overall efficiency.<br><br>4. User experience: The user's ability to interact with and understand the system is crucial for the project's success. Ensuring that the user can easily access and control the various agents without feeling overwhelmed is important.<br><br>5. Adaptability: As the project evolves, it's important to consider how the system can adapt to new requirements or changes in user needs. Building flexibility into the agent design will help the system remain relevant and useful over time.<br><br>6. Evaluation: Establishing clear metrics for evaluating the performance and success of the agents is essential. This will help identify areas for improvement and ensure that the system continues to meet its goals.<br><br>7. Ethics and bias: With agents handling various creative and research-related tasks, it's crucial to consider the potential for ethical concerns or biases that may arise. Developing guidelines and safeguards to address these issues is important for a responsible and effective system.<br><br>
 
 # Sample Pieces
 
